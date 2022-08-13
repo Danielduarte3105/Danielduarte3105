@@ -1,9 +1,9 @@
 <h1>Olá eu sou Daniel Duarte</h1>
-<h3>Programador Junior Trabalho à 2 anos em desenvolvimento web front-end, e em arduino. Desenvolvendo soluções para  qualquer necessidade que envolva sistemas com Hardware e Software.</h3>
+<h3>Sou Programador Júnior e Trabalho à 2 anos em desenvolvimento web front-end, em python, e  placas micro-controladoras como o arduíno. Desenvolvendo soluções para  qualquer necessidade que envolva sistemas com Hardware e Software.</h3>
 <div align="center">
   <a href="https://github.com/Danielduarte3105">
-  <img height="180em" src=""/>
-  <img height="180em" src=""/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danielduarte3105&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielduarte3105&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <div style="display: inline_block"><br>
