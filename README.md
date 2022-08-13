@@ -22,11 +22,8 @@
   
   ##
   
-  <div> 
-  <a href="" target="_blank"><img src="" target="_blank"></a>
-  <a href="https://codepen.io/danielduarte3105" target="_blank"><img src="https:" target="_blank"></a>
   
- 
+ <div>
 
   ![Snake animation](https://github.com/resolvendobug/resolvendobug/blob/output/github-contribution-grid-snake.svg)
  
