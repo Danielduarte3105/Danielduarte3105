@@ -2,7 +2,7 @@
 <h3>Olá, como vão? Me chamo Daniel Duarte e sou um programador júnior</h3>
 <div align="center">
   <a href="https://github.com/Danielduarte3105">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danielduarte3105&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danielduarte3105&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
 </div>
   
   <div style="display: inline_block"><br>
