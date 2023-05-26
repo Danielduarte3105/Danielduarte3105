@@ -1,26 +1,25 @@
-<h1>Olá eu sou Daniel Duarte</h1>
-<h3>Olá, sejam muito bem vindos ao meu GitHub, aqui publico minhas idéias e criações!</h3>
-<div align="center">
-  <a href="https://github.com/Danielduarte3105">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danielduarte3105&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="RB-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="RB-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="RB-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="RB-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="RB-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg">
-  <img align="center" alt="RB-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="RB-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
-</div>
-  
-  ##
-  
-  
- <div>
+### Olá pessoal! Eu sou o Daniel Duarte 😄🚀 
 
-  ![Snake animation](https://github.com/resolvendobug/resolvendobug/blob/output/github-contribution-grid-snake.svg)
- 
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dani__s2__)
+[![LinkedIn](https://img.shields.io/badge/linkedin-836FFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/daniel-gomes)
+
+<!-- ![Gutoneitzke GitHub stats](https://github-readme-stats.vercel.app/api?username=gutoneitzke&show_icons=true&theme=tokyonight&count_private=true)-->
+
+## Tecnologias que mais utilizo
+<br>
+<div style="display: inline_block">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="laravel" src="https://img.shields.io/badge/laravel-DC143C?style=for-the-badge&logo=laravel&logoColor=white">
+  <img align="center" alt="vuejs" src="https://img.shields.io/badge/vue.js-00FF7F?style=for-the-badge&logo=vue.js&logoColor=gray">
+  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-BF40BF?style=for-the-badge&logo=php&logoColor=white">
 </div>
+<br/>
+
+🔴 Aprendendo programação desde os 12 anos de idade!
+<br><br>
+<b>Venha aprender um pouco mais sobre esse mundo fantástico da tecnologia junto comigo</b> 🚀
+
+![Snake animation](https://github.com/Gutoneitzke/gutoneitzke/blob/output/github-contribution-grid-snake.svg)
