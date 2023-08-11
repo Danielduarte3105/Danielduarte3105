@@ -19,5 +19,3 @@
 🔴 Aprendendo programação desde os 12 anos de idade!
 <br><br>
 <b>Venha aprender um pouco mais sobre esse mundo fantástico da tecnologia junto comigo</b> 🚀
-
-![Snake animation](https://github.com/Gutoneitzke/gutoneitzke/blob/output/github-contribution-grid-snake.svg)
