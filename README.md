@@ -1,12 +1,12 @@
-### Olá pessoal! Eu sou o Daniel Duarte 😄🚀 
+### Olá pessoal! Eu sou o Daniel Duarte - NXS Founder😄🚀 
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ )
-[![LinkedIn](https://img.shields.io/badge/linkedin-836FFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/ )
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dani__s2__/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-836FFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-duarte-b53806224/)
 
 <!-- ![Gutoneitzke GitHub stats](https://github-readme-stats.vercel.app/api?username=gutoneitzke&show_icons=true&theme=tokyonight&count_private=true)-->
 
-## Tecnologias que mais utilizo
+## Tecnologias que mais utilizo!!!
 <br>
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
