@@ -3,7 +3,8 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dani__s2__/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-836FFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-duarte-b53806224/)
-[![LinkedIn](https://img.shields.io/badge/codepen-836FFF?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/danielduarte3105)
+[![LinkedIn](https://img.shields.io/badge/codepen-564a5d?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/danielduarte3105)
+[![Instagram](https://img.shields.io/badge/replit-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://replit.com/@Daniel31052003)
 
 <!-- ![Gutoneitzke GitHub stats](https://github-readme-stats.vercel.app/api?username=gutoneitzke&show_icons=true&theme=tokyonight&count_private=true)-->
 
