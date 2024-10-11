@@ -1,4 +1,4 @@
-### Olá pessoal! Eu sou o Daniel Duarte - NXS Founder😄🚀 
+### Olá pessoal! Eu sou o Daniel Duarte!!!
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dani__s2__/)
