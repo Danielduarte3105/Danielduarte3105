@@ -3,6 +3,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dani__s2__/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-836FFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-duarte-b53806224/)
+[![LinkedIn](https://img.shields.io/badge/codepen-836FFF?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/danielduarte3105)
 
 <!-- ![Gutoneitzke GitHub stats](https://github-readme-stats.vercel.app/api?username=gutoneitzke&show_icons=true&theme=tokyonight&count_private=true)-->
 
@@ -27,6 +28,6 @@
   </div>
 <br/>
 
-🔴 Aprendendo programação desde os 12 anos de idade!
+🔴 Sempre em constante evolução!
 <br><br>
-<b>Venha aprender um pouco mais sobre esse mundo fantástico da tecnologia junto comigo</b> 🚀
+<b>Una-se nesta aventura comigo, aprenda mais, e vamos compartilhar conhecimento.</b> 🚀
