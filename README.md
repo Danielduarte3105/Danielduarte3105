@@ -17,10 +17,6 @@
 
 ---
 
-<p align="center">
-  ![Visitor Count](https://komarev.com/ghpvc/?username=danielduarte3105&color=blue)
-</p>
-
 <h2 align="center">⚙️ Tecnologias que mais utilizo ⚙️</h2>
 
 <div align="center" style="display: inline_block;">
@@ -78,9 +74,6 @@
 
 ---
 
-<p align="center">
-  ![Snake animation](https://github.com/danielduarte3105/danielduarte3105/blob/output/github-contribution-grid-snake.svg)
-</p>
 
 <p align="center">
   <b>Junte-se a mim nessa jornada! Vamos aprender e compartilhar conhecimento!</b>
