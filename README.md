@@ -48,6 +48,14 @@
 
 ---
 
+<h2 align="center">GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danielduarte3105&show_icons=true&theme=tokyonight" alt="Daniel Duarte GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielduarte3105&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+</p>
+
+---
+
 <h2 align="center">🚀 Vamos compartilhar conhecimento e crescer juntos! 🚀</h2>
 
 <p align="center">🔴 Estou sempre em constante evolução, aprendendo e aprimorando minhas habilidades.</p>
@@ -61,11 +69,7 @@
   <img src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif" width="300" alt="Evolução constante">
 </p>
 
-<h2 align="center">GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielduarte3105&show_icons=true&theme=tokyonight" alt="Daniel Duarte GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielduarte3105&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
-</p>
+
 
 <h2 align="center">🏆 Conquistas e Projetos Recentes</h2>
 - 🎯 **Projeto X**: Sistema de automação de processos utilizando Python e Selenium.
