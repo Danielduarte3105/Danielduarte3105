@@ -52,6 +52,11 @@
 
 <p align="center">🔴 Estou sempre em constante evolução, aprendendo e aprimorando minhas habilidades.</p>
 
+
+<h2 align="center">🌟 Quote Motivacional</h2>
+
+<p align="center">"A única maneira de fazer um excelente trabalho é amar o que você faz." – Steve Jobs</p>
+
 <p align="center">
   <img src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif" width="300" alt="Evolução constante">
 </p>
