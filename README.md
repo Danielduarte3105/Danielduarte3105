@@ -61,6 +61,23 @@
   <img src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif" width="300" alt="Evolução constante">
 </p>
 
+<h2 align="center">GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danielduarte3105&show_icons=true&theme=tokyonight" alt="Daniel Duarte GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielduarte3105&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+</p>
+
+<h2 align="center">🏆 Conquistas e Projetos Recentes</h2>
+- 🎯 **Projeto X**: Sistema de automação de processos utilizando Python e Selenium.
+- 🔧 **Ferramenta Y**: Desenvolvimento de uma API REST em PHP para gerenciamento de dados.
+- 📚 **Estudo Z**: Explorando novas funcionalidades do framework React.js.
+
+---
+
+<p align="center">
+  ![Snake animation](https://github.com/danielduarte3105/danielduarte3105/blob/output/github-contribution-grid-snake.svg)
+</p>
+
 <p align="center">
   <b>Junte-se a mim nessa jornada! Vamos aprender e compartilhar conhecimento!</b>
 </p>
