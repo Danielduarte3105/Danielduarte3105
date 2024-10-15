@@ -17,6 +17,10 @@
 
 ---
 
+<p align="center">
+  ![Visitor Count](https://komarev.com/ghpvc/?username=danielduarte3105&color=blue)
+</p>
+
 <h2 align="center">⚙️ Tecnologias que mais utilizo ⚙️</h2>
 
 <div align="center" style="display: inline_block;">
