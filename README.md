@@ -73,11 +73,6 @@
 
 <h2 align="center">🏆 Conquistas e Projetos Recentes</h2>
 <br>
-- 🎯 **Projeto X**: Sistema de automação de processos utilizando Python e Selenium.
-<br>
-- 🔧 **Ferramenta Y**: Desenvolvimento de uma API REST em PHP para gerenciamento de dados.
-<br>
-- 📚 **Estudo Z**: Explorando novas funcionalidades do framework React.js.
 
 ---
 
