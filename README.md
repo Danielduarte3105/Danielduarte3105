@@ -23,7 +23,7 @@
   <tbody>
     <tr>
       <td align="center" width="90" height="90">
-        <img alt="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+        <img alt="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zapier/zapier.svg" />
       </td>
       <td align="center" width="90" height="90">
         <img alt="PHP" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/dbbc299a-8356-45e4-9d2e-a6c21b4569cf" />
